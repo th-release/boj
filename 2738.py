@@ -13,4 +13,4 @@ for row in range(x):
 for row in range(x):
   for col in range(y):
     print(a[row][col] + b[row][col], end=" ")
-  print()
+  print() # \n
