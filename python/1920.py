@@ -1,6 +1,5 @@
-# 입력
 N = int(input())
-A = set(map(int, input().split()))
+A = list(set(map(int, input().split())))
 M = int(input())
 arr = list(map(int, input().split()))
 
